@@ -1,1 +1,2 @@
 echo "ini hanya file percobaan"
+echo "edit file"
