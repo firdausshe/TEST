@@ -24,5 +24,5 @@ pipeline {
     failure {
       echo "gagal"
     }
-  }
-    
+ }
+}
